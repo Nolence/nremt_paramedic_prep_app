@@ -7,24 +7,24 @@ include_in_header: false
 **Last updated**  
 August 11 2020
 
-# Terms of Use 
+# Terms of Use
 
-Preface
+## Preface
 
 You, the user of the App, confirm your acceptance of these App Terms of Use (“App Terms”). If you do not agree to these App Terms, you must immediately uninstall the App and discontinue its use.
 
-General Terms
+## General Terms
 
 App and Related Terms
 Depending on the version of the Application you have downloaded, these App Terms incorporate Apple’s or Google Android’s terms and conditions and privacy policies (“Platform Terms”). If there is any conflict between these App Terms and the Platform Terms then these App Terms will prevail.
 
 We may from time to time vary these App Terms. Please check these App Terms regularly to ensure you are aware of any variations made by us. If you continue to use this App, you are deemed to have accepted such variations. If you do not agree to such variations, you should not use the App.
 
-Use of the App
+##  Use of the App
 
 All the questions contained in NREMT Paramedic Prep follow the guidelines and are derived in accordance from the following website: 
 
-https://www.nremt.org
+[nremt](https://www.nremt.org)
 
 Disclaimer: 
 NREMT Paramedic Prep is not affiliated with nremt.org in any way. This applications is an excellent tool for self study and exam preparation. It's not affiliated with or endorsed by any testing organisation, certificate, test name, or trademark. 
@@ -39,11 +39,11 @@ You acknowledge that your agreement with your mobile network provider (“Mobile
 
 You acknowledge that where you use the services provided by Apple or Google (or any other third parties) in connection with your use of the App, you will be subject to Apple’s, Google’s (or the applicable third party’s) terms and conditions and privacy policy and you should ensure that you have read such terms.
 
-Intellectual Property
+## Intellectual Property
 
 The NREMT Paramedic Prep name and logo, and other NREMT Paramedic Prep Trust trademarks, service marks, graphics and logos used in connection with the App are trademarks of NREMT Paramedic Prep (collectively “NREMT Paramedic Prep Trademarks”). Other trademarks, service marks, graphics and logos used in connection with the App are the trademarks of their respective owners (collectively “Third Party Trademarks”). The NREMT Paramedic Prep Trademarks and Third Party Trademarks may not be copied, imitated or used, in whole or in part, without the prior written permission of NREMT Paramedic Prep or the applicable trademark holder. The App and the content featured in the App are protected by copyright, trademark, patent and other intellectual property and proprietary rights which are reserved to NREMT Paramedic Prep and its licensors.
 
-Prohibited Uses
+## Prohibited Uses
 
 You agree not to use the App in any way that:
 
@@ -61,17 +61,17 @@ is likely to harass, upset, embarrass, alarm or annoy any other person;
 
 is likely to disrupt our service in any way; or advocates, promotes or assists any unlawful act such as (by way of example only) copyright infringement or app misuse.
 
-Indemnification
+## Indemnification
 
 You agree to indemnify NREMT Paramedic Prep for any breach of these App Terms. NREMT Paramedic Prep reserves the right to control the defence and settlement of any third party claim for which you indemnify NREMT Paramedic Prep under these App Terms and you will assist us in exercising such rights.
 
-No Promises
+## No Promises
 
 NREMT Paramedic Prep provides the App on an ‘as is’ and ‘as available’ basis without any promises or representations, express or implied. In particular, NREMT Paramedic Prep does not warrant or make any representations regarding the validity, accuracy, reliability or availability of the App or its content.
 
 To the fullest extent permitted by applicable law, NREMT Paramedic Prep hereby excludes all promises, whether express or implied, including any promises that the App is fit for purpose, of satisfactory quality, non-infringing, is free of defects, is able to operate on an uninterrupted basis, that the use of the App by you is in compliance with laws or that any information that you transmit in connection with this App will be successfully, accurately or securely transmitted.
 
-Reliance on Information
+## Reliance on Information
 
 The App is intended to provide general information only and, as such, should not be considered as a substitute for advice covering any specific situation. You should seek appropriate advice before taking or refraining from taking any action in reliance on any information contained in the App.
 
@@ -83,10 +83,10 @@ NREMT Paramedic Prep shall not be liable even if it has been advised of the poss
 
 In the event that applicable law does not allow the exclusion of certain promises and/or the exclusion of liability for direct, indirect, consequential or other damages, in no event shall NREMT Paramedic Prep’s liability arising under or in connection with these App Terms and your use of the App exceed $50.
 
-General
+## General
 
 If any provision (or part of a provision) of these App Terms is found by any court or administrative body of competent jurisdiction to be invalid, unenforceable or illegal, such term, condition or provision will to that extent be severed from the remaining terms, conditions and provisions which will continue to be valid to the fullest extent permitted by law.
 
-Contact Me
+## Contact Me
 
 If you have any questions regarding my App, you can email me at mayhemstestprep@gmail.com.
